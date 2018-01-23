@@ -12,13 +12,10 @@
 </metadata>
 
 <manifest>
-  <item id="font.stix.regular" href="fonts/STIXGeneral.otf" media-type="application/vnd.ms-opentype"/>
-  <item id="font.stix.italic" href="fonts/STIXGeneralItalic.otf" media-type="application/vnd.ms-opentype"/>
-  <item id="font.stix.bold" href="fonts/STIXGeneralBol.otf" media-type="application/vnd.ms-opentype"/>
-  <item id="font.stix.bold.italic" href="fonts/STIXGeneralBolIta.otf" media-type="application/vnd.ms-opentype"/>
   <item id="style" href="css/stylesheet.css" media-type="text/css"/>
   <item id="cover-image" properties="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
   <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+  <item id="link" href="link.xhtml" media-type="application/xhtml+xml"/>
   <item id="tesario" href="tesario.xhtml"  media-type="application/xhtml+xml"/>
   <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
   <item id="evangelizzazioneministeri" href="all/evangelizzazioneministeri.xhtml"  media-type="application/xhtml+xml"/>
@@ -42,7 +39,7 @@
 </manifest>
 
 <spine>
-  <itemref idref="cover" linear="no"/>
+  <itemref idref="cover"/>
   <itemref idref="tesario"></itemref>
   <itemref idref="chapter_001"></itemref>
   <itemref idref="chapter_002"></itemref>
@@ -59,7 +56,7 @@
   <itemref idref="chapter_013"></itemref>
   <itemref idref="chapter_014"></itemref>
   <itemref idref="chapter_015"></itemref>
-  <itemref idref="evangelizzazioneministeri"></itemref>
+  <itemref idref="link"></itemref>
 </spine>
   
 </package>
