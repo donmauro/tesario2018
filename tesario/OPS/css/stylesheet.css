@@ -1,5 +1,16 @@
+@namespace epub 'http://www.idpf.org/2007/ops';
+
 p {
 
   text-indent:2em;
 
+}
+
+
+
+
+a[epub|type~='noteref'] {
+   vertical-align: super;
+   line-height: normal;
+   font-size: smaller;
 }
