@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="3.1" xml:lang="it" unique-identifier="tesario_01">
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="3.0" xml:lang="it" unique-identifier="tesario_01">
 
 <metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
     
@@ -18,7 +18,6 @@
   <item id="link" href="link.xhtml" media-type="application/xhtml+xml"/>
   <item id="tesario" href="tesario.xhtml"  media-type="application/xhtml+xml"/>
   <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
-  <item id="evangelizzazioneministeri" href="all/evangelizzazioneministeri.xhtml"  media-type="application/xhtml+xml"/>
   <item id="chapter_001" href="chapter_001.xhtml"  media-type="application/xhtml+xml"/>
   <item id="chapter_002" href="chapter_002.xhtml"  media-type="application/xhtml+xml"/>
   <item id="chapter_003" href="chapter_003.xhtml"  media-type="application/xhtml+xml"/>
