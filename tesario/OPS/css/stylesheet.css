@@ -6,6 +6,9 @@ p {
 
 }
 
+ul.none {
+  list-style-type: none;
+}
 
 
 
