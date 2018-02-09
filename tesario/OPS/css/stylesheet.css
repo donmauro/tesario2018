@@ -9,11 +9,27 @@ p {
 ul.none {
   list-style-type: none;
 }
-
-
+li {
+  margin: 0.25em;
+}
+a:link ,a:visited {
+    color: blue;
+    text-decoration: none;
+}
 
 a[epub|type~='noteref'] {
-   vertical-align: super;
-   line-height: normal;
-   font-size: smaller;
+ vertical-align: super;
+ line-height: normal;
+ font-size: smaller;
+}
+
+
+img {
+max-width: 40%;
+max-height: 40%;
+}
+
+#cover {
+  text-align: center;
+  color: grey;
 }
