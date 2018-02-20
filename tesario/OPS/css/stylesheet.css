@@ -33,3 +33,11 @@ max-height: 40%;
   text-align: center;
   color: grey;
 }
+
+.center {
+  text-align: center;
+}
+
+ol.roman {
+  list-style-type: upper-roman;
+}
