@@ -41,3 +41,6 @@ max-height: 40%;
 ol.roman {
   list-style-type: upper-roman;
 }
+ol.none {
+  list-style-type: none;
+}
