@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="3.0" xml:lang="it" unique-identifier="tesario_01">
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="3.0" xml:lang="it" unique-identifier="tesario_2017">
 
 <metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
     
     <dc:title id="title">Tesario</dc:title>
-    <dc:identifier id="tesario_01">1</dc:identifier>
+    <dc:identifier id="tesario_2017">1</dc:identifier>
     <dc:creator id="creator01">Scuola Teologica di Base S.Luca</dc:creator>
     <dc:contributor id="contributor01">Maurizio Cardella</dc:contributor>
     <dc:language>it</dc:language>
