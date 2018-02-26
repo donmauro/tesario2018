@@ -6,12 +6,19 @@ p {
 
 }
 
-ul.none {
-  list-style-type: none;
-}
 li {
   margin: 0.25em;
 }
+
+ul {
+  margin: 0.25em;
+  text-indent: 0;
+  list-style-position: outside;
+}
+ul.none {
+  list-style-type: none;
+}
+
 a:link ,a:visited {
     color: blue;
     text-decoration: none;
