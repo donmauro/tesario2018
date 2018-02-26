@@ -9,7 +9,11 @@ p {
 li {
   margin: 0.25em;
 }
-
+ol {
+  margin: 0.25em;
+  text-indent: 0;
+  list-style-position: outside;
+}
 ul {
   margin: 0.25em;
   text-indent: 0;
