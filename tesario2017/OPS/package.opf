@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="3.0" xml:lang="it" unique-identifier="pub-id">
+
+<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <dc:title id="title">Tesario</dc:title>
+    <dc:identifier id="pub-id">urn:uuid:62b90166-a69f-4efb-9eb6-1c60657765e2</dc:identifier>
+    <dc:creator id="creator01">Scuola Teologica di Base S.Luca</dc:creator>
+    <dc:contributor id="contributor01">Maurizio Cardella</dc:contributor>
+    <dc:language>it</dc:language>
+    <meta property="dcterms:modified">2018-02-26T14:40:00Z</meta>
+    
+  
+</metadata>
+
+<manifest>
+  <item id="style" href="css/stylesheet.css" media-type="text/css"/>
+  <item id="cover-image" properties="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+  <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+  <item id="link" href="link.xhtml" media-type="application/xhtml+xml"/>
+  <item id="tesario" href="tesario.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
+  <item id="chapter_001" href="chapter_001.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_002" href="chapter_002.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_003" href="chapter_003.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_004" href="chapter_004.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_005" href="chapter_005.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_006" href="chapter_006.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_007" href="chapter_007.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_008" href="chapter_008.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_009" href="chapter_009.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_010" href="chapter_010.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_011" href="chapter_011.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_012" href="chapter_012.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_013" href="chapter_013.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_014" href="chapter_014.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_015" href="chapter_015.xhtml"  media-type="application/xhtml+xml"/>
+
+
+</manifest>
+
+<spine>
+  <itemref idref="cover"/>
+  <itemref idref="tesario"></itemref>
+  <itemref idref="chapter_001"></itemref>
+  <itemref idref="chapter_002"></itemref>
+  <itemref idref="chapter_003"></itemref>
+  <itemref idref="chapter_004"></itemref>
+  <itemref idref="chapter_005"></itemref>
+  <itemref idref="chapter_006"></itemref>
+  <itemref idref="chapter_007"></itemref>
+  <itemref idref="chapter_008"></itemref>
+  <itemref idref="chapter_009"></itemref>
+  <itemref idref="chapter_010"></itemref>
+  <itemref idref="chapter_011"></itemref>
+  <itemref idref="chapter_012"></itemref>
+  <itemref idref="chapter_013"></itemref>
+  <itemref idref="chapter_014"></itemref>
+  <itemref idref="chapter_015"></itemref>
+  <itemref idref="link"></itemref>
+</spine>
+  
+</package>
