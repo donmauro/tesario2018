@@ -33,7 +33,9 @@ a[epub|type~='noteref'] {
  line-height: normal;
  font-size: smaller;
 }
-
+red {
+  color: red;
+}
 
 img {
 max-width: 40%;
