@@ -19,6 +19,7 @@
   <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
   <item id="frontespizio" href="frontespizio.xhtml" media-type="application/xhtml+xml"/>
   <item id="link" href="link.xhtml" media-type="application/xhtml+xml"/>
+  <item id="lessico" href="lessico.xhtml" media-type="application/xhtml+xml"/>
   <item id="tesario" href="tesario.xhtml"  media-type="application/xhtml+xml"/>
   <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
   <item id="chapter_001" href="chapter_001.xhtml"  media-type="application/xhtml+xml"/>
@@ -59,6 +60,7 @@
   <itemref idref="chapter_013"></itemref>
   <itemref idref="chapter_014"></itemref>
   <itemref idref="chapter_015"></itemref>
+  <itemref idref="lessico"></itemref>
   <itemref idref="link"></itemref>
 </spine>
   
